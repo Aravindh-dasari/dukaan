@@ -27,30 +27,24 @@ To get a local copy up and running, follow these steps:
    git clone https://github.com/yourusername/dukaan-app.git
 Navigate to the Project Directory:
 
-bash
-Copy code
+**bash**
 cd dukaan-app
 Install Dependencies:
 
-bash
-Copy code
+**bash**
 npm install
 Run the Application:
 
-bash
-Copy code
+**bash**
 npm start
 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-License
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+**Acknowledgments**
 Inspired by local businesses and the Udaan app.
-Special thanks to everyone who contributed to the project.
-vbnet
-Copy code
 
 ### How to Use
 - Replace `yourusername` in the clone command with your actual GitHub username.
