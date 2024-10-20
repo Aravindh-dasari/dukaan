@@ -16,7 +16,7 @@ Dukaan is an intuitive e-commerce platform designed to empower local businesses 
 - **Frontend**: React.js
 - **Backend**: Spring Boot
 - **Database**: MySQL
-- **Hosting**: AWS
+- **Hosting**: AWS (or your preferred hosting service)
 
 ## Getting Started
 
@@ -25,28 +25,32 @@ To get a local copy up and running, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/dukaan-app.git
-Navigate to the Project Directory:
+   ```
 
-**bash**
-cd dukaan-app
-Install Dependencies:
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd dukaan-app
+   ```
 
-**bash**
-npm install
-Run the Application:
+3. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-**bash**
-npm start
-Contributing
+4. **Run the Application**:
+   ```bash
+   npm start
+   ```
+
+## Contributing
+
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
 
-**Acknowledgments**
-Inspired by local businesses and the Udaan app.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### How to Use
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- You can add more sections or modify existing ones to fit your project’s needs.
-- If you have a license file, ensure to create a corresponding `LICENSE` file in your repository.
+## Acknowledgments
+
+- Inspired by local businesses and the Udaan app.
+- Special thanks to everyone who contributed to the project.
